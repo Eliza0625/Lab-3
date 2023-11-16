@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  
+}
+
+h1 {
+  color: red;
+  background-color: #000000;
+  font-size: 80px;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(255,255,255);
+  background-color: hsl(120, 100%, 50%);
+  font-weight: 700;
+  text-decoration: overline;
+  text-align: center;
+}
+
+h3 {
+  background-color: yellow;
+  font-style: oblique;
+  line-height: 50px;
+  word-spacing: 10px;
+  text-align: center;
+}
+
+p {
+  color: hsl(182, 63%, 43%, 1);
+  font-variant: normal;
+}
+
+ul {
+  color: rgba(172, 177, 214, 1);
+  letter-spacing: 1px;
+}
+
+ol {
+  color: lightgray;
+  background: white;
+  letter-spacing: 2px;
+  font-weight: lighter;
+}
+
+html { 
+  background-color: hsla(303, 85%, 34%, 1);
+}
+
+em { 
+  text-transform: lowercase;
+}
+
+strong {
+  text-shadow: 3px 3px 5px black;
+}
+<!--hsla(303, 85%, 34%, 1) = rgba(160, 13, 153, 1) + #a00d99-->
+</html>
